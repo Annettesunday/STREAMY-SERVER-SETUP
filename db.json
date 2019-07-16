@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "My streak",
+      "description": "yow",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream",
+      "id": 2
+    },
+    {
+      "title": "I created this stream wow",
+      "description": "This was created by me wow",
+      "id": 3
+    }
+  ]
+}
